@@ -52,3 +52,6 @@ Microsoft Excel 2019 ou superior (recomendado Excel 365)
 
 # Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
+# Contato 
+Email: iagosantiagodieta15@gmail.com
