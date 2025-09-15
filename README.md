@@ -33,3 +33,24 @@ Prévia
 
 <img width="1083" height="619" alt="Captura de tela 2025-09-12 112417" src="https://github.com/user-attachments/assets/59dc6484-d766-40e0-bd5e-72a1ab366e83" />
 
+# Estrutura dos arquivos
+dashboard-loja
+____ Dashboard - neto Veículos.xlsx
+____ README.md
+____ LICENSE
+
+# Como usar 
+Clone este repertório ou baixe o .zip:\
+Git clone https://github.com/iagosantiagodieta/DashLojaExcel.git\
+Abra o arquivo Dashboard - Neto veículos.xlsx no Excel.\
+Atualize os dados na planilha Base de Dados.\
+Navegue pelo painel para visualizar os insights.\
+
+# Origem dos Dados 
+Dados de vendas de uma empresa de automóveis em fortaleza no ano de 2024, com base em algumas marcas e modelos de carros.
+
+# Requisitos
+Microsoft Excel 2019 ou superior (recomendado Excel 365)
+
+# Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
